@@ -246,4 +246,18 @@ body{
     .right-container{
         width: 100%;
     }
+    .tags .all-tags{
+      
+        padding: 1em 0.2em;
+        font-size: 11px;
+     
+     }
+    .tags .all-tags span{
+        margin:3px;
+        padding: 1px 4px;
+    
+     }
+
+
  }
+
